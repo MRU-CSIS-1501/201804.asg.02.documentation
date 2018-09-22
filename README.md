@@ -1,15 +1,19 @@
 # Assignment 02
 
-## How to check your work
+**DUE: Thursday, October 18, 2018 @ 5:00PM**
 
-If you want to check whether your code is _behaving as expected_, you can run the command **make tests** from the directory of the challenge you're
-working on.
+**WEIGHT: 4%**
 
-> Just because the given tests run green does **not** mean everything is fine - we've only included a handful of the test data we will use to actually mark your assignments for correctness! You can add your own test data to the csv files in the `tests/data` directory; just add additional rows to the data already there.
+**ANY QUESTIONS?** Please post any questions to [Piazza](https://piazza.com/class/jm9cg39jrr21zs?cid=9#), ideally in the **assignment2** folder.
 
-If you want to see whether your code is _following the coding standards for this course_, you can run the command **make style** from the directory of the challenge you're working on.
+## Overview
 
-> There is some overlap between the two tools used to do this task, so you may notice some warnings are repeated between the two tools. If you don't understand any of the warnings (they **can** be a little opaque), please talk to one of the IAs or your instructor.
+This assignment has 2 challenges.
+
+- The **Interest Calculator** challenge is the simpler of the two, IMO. You will be asking the user for input, calculating interest earned on a starting balance, and then outputting some formatted results. There are some if statements and conditionals being used here, so that's new to most of you and will likely be a bit challenging.
+- The **DnD Damage Calculator** challenge will likely be more challenging for most of you, as you are working with code that has already been created and you need to spend some time to understand what it is that you are being asked to do. (The actual code that you have to write is similar in difficulty to what is in the Interest Calculator challenge.)
+
+Start early. You will need to spend time on this over Reading Week to be successful - I am on campus all week (except for Thanksgiving).
 
 ---
 
