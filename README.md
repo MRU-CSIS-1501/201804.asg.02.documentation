@@ -10,8 +10,8 @@
 
 This assignment has 2 challenges.
 
-- The **Interest Calculator** challenge is the simpler of the two, IMO. You will be asking the user for input, calculating interest earned on a starting balance, and then outputting some formatted results. There are some if statements and conditionals being used here, so that's new to most of you and will likely be a bit challenging.
-- The **DnD Damage Calculator** challenge will likely be more challenging for most of you, as you are working with code that has already been created and you need to spend some time to understand what it is that you are being asked to do. (The actual code that you have to write is similar in difficulty to what is in the Interest Calculator challenge.)
+- The **Interest Calculator** is the simpler of the two, IMO. You will be asking the user for input, calculating interest earned on a starting balance, and then outputting some formatted results. There are some if statements and conditionals being used here, so that's new to most of you and will likely be a bit challenging.
+- The **DnD Damage Calculator** will likely be more challenging for most of you, as you are working with code that has already been created and you need to spend some time to understand what it is that you are being asked to do. (The actual code that you have to write is similar in difficulty to what is in the Interest Calculator challenge.)
 
 Start early. You will need to spend time on this over Reading Week to be successful - I am on campus all week (except for Thanksgiving).
 
