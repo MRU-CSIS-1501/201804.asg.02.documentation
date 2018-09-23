@@ -1,0 +1,47 @@
+CHECKSTYLE REPORT
+Starting audit...
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndDamageCalculator.java:211: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndDamageCalculator.java:236: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndDamageCalculator.java:264: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndDamageCalculator.java:279:27: '3' is a magic number. [MagicNumber]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndDamageCalculator.java:315: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:50: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:75: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:104: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:111:45: '10' is a magic number. [MagicNumber]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:116: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:150: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:157:39: '4' is a magic number. [MagicNumber]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:162: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:291: Comment matches to-do format 'TODO:'. [TodoComment]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:326:20: '12' is a magic number. [MagicNumber]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:332:20: '10' is a magic number. [MagicNumber]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:340:20: '4' is a magic number. [MagicNumber]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:351:20: '8' is a magic number. [MagicNumber]
+[ERROR] /users/library/csis/comp1501/instructors/f18/2.asg/soln/DndDamageCalculator/src/DndRulesHelper.java:362:20: '6' is a magic number. [MagicNumber]
+Audit done.
+Checkstyle ends with 19 errors.
+
+PMD REPORT
+* file: ./src/DndDamageCalculator.java
+    src:  DndDamageCalculator.java:275:275
+    rule: AvoidLiteralsInIfCondition
+    msg:  Avoid using Literals in Conditional Statements
+    code: if (num == 1) {
+
+    src:  DndDamageCalculator.java:277:277
+    rule: AvoidLiteralsInIfCondition
+    msg:  Avoid using Literals in Conditional Statements
+    code: } else if (num == 2) {
+
+    src:  DndDamageCalculator.java:279:279
+    rule: AvoidLiteralsInIfCondition
+    msg:  Avoid using Literals in Conditional Statements
+    code: } else if (num == 3) {
+
+
+
+Summary:
+
+ : 3
+* warnings: 3
