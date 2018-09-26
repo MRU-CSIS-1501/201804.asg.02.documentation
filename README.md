@@ -2,6 +2,11 @@
 
 **DUE: Thursday, October 18, 2018 @ 5:00PM**
 
+**SUBMISSION PROCEDURE**:
+
+To submit your assignment, just use the usual **submit1501** on INS.
+When asked for the task identifier, please use **asg02**.
+
 **WEIGHT: 4%**
 
 **ANY QUESTIONS?** Please post any questions to [Piazza](https://piazza.com/class/jm9cg39jrr21zs?cid=9#), ideally in the **assignment2** folder.
