@@ -2,6 +2,8 @@
 
 **DUE: Thursday, October 18, 2018 @ 5:00PM**
 
+**WHERE TO GET IT**: `/users/library/csis/comp1501/assignments/2.asg.jpratt`
+
 **SUBMISSION PROCEDURE**:
 
 To submit your assignment, just use the usual **submit1501** on INS.
