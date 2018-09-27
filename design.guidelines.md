@@ -14,7 +14,7 @@
 ---
 
 - [ ] keep your methods short - anything more than 20 lines and I'm gonna start getting cranky! Prefer lots of small, well-focused methods over larger globs.
-- [ ] likewise, keep your parameter lists short - in general, anything over 3 is highly suspect. Prefer methods that have 0 or 1 argument. 2 is OK. 3 is pushing it.
+- [ ] likewise, keep your parameter lists short - in general, anything over 3 is highly suspect. Prefer methods that have 0 or 1 argument. 2 is OK. 3 is pushing it. But at this point in your career, you don't always have the tools to make shorter parameter lists, so you might need to go long - when in doubt, ask!
 
 ---
 
