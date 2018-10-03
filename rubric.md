@@ -21,7 +21,7 @@ _"Does your code do what it was asked to do?"_
 - [ ] 3: At most 2 testing groups fail.
 - [ ] 2: At least 1 testing group passes.
 - [ ] 1: At least one test passes.
-- [ ] 0: Code does not compile.
+- [ ] 0: Code does not compile and/or tests do not run.
 
 ### Automated Style & Best Practice Analysis
 
@@ -58,7 +58,7 @@ _"Does your code do what it was asked to do?"_
 - [ ] 3: At most 2 output sections have a failing test.
 - [ ] 2: At least 2 output sections have fully passing tests.
 - [ ] 1: At least one test passes.
-- [ ] 0: Code does not compile.
+- [ ] 0: Code does not compile and/or tests do not run.
 
 ### Automated Style & Best Practice Analysis
 
