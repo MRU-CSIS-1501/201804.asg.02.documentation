@@ -9,17 +9,35 @@ I'd suggest working on the TODOs in the DndRulesHelper file first for a few reas
 - you'll pass most of the tests that way - which gives you a higher mark on the automated tests portion of this challenge's total grade
 - the DndDamageCalculator can't be completed fully until the DndRulesHlper TODOs are done
 - each method in DndRulesHelper is focused on doing just one small thing, which makes them easier to complete
-- these methods are easier to do:
-  - `damageTypeFor`
-  - `abilityModifierFor`
-  - `hasProficiencyIn`
-  - `proficiencyBonusForLevel`
-  - `minDamageFrom`
+
+## Easier methods
+
+In the DndRulesHelper file, these methods are easier to do:
+
+- `damageTypeFor`
+- `abilityModifierFor`
+- `hasProficiencyIn`
+- `proficiencyBonusForLevel`
+- `minDamageFrom`
 
 In the DndDamageCalculator file, these methods are easier to do:
 
 - `isAllowableCharacterClass`
 - `ordinalFromNumber`
+
+## Use methods that are already completed
+
+There is an expectation in this challenge that you will have at least looked through the documentation in both source files - you don't necessarily need to know _how_ every method works, but you should know _what_ they do.
+
+Many of the TODO methods use other methods that have already been completed - which makes coding these TODOs **much** easier.
+
+There are the methods that **don't** use other pre-built methods:
+
+- `abilityModifierFor`
+- `proficiencyBonusForLevel`
+- `minDamageFrom`
+- `ordinalFromNumber`
+- `isAllowableCharacterClass`
 
 ## A simple glossary for this challenge
 
