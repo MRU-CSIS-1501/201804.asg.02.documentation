@@ -30,6 +30,8 @@ _"How closely does your code follow the automated rules you are given?"_
 - [ ] 5: No _true_ errors detected.
 - [ ] 4: One **type** of _true_ error detected.
 - [ ] 3: Two **types** of _true_ errors detected.
+- [ ] 2: (not used)
+- [ ] 1: (not used)
 - [ ] 0: Three or more **types** of _true_ errors detected.
 
 ### Design
