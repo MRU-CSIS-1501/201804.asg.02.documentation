@@ -17,10 +17,10 @@ Assignment Score = average of challenge scores
 _"Does your code do what it was asked to do?"_
 
 - [ ] 5: All tests pass.
-- [ ] 4: At most 1 output section has a failing test.
-- [ ] 3: At most 2 output sections have a failing test.
-- [ ] 2: At least 2 output sections have fully passing tests.
-- [ ] 1: At least one test passes.
+- [ ] 4: 2 tests pass.
+- [ ] 3: (not used)
+- [ ] 2: 1 test passes.
+- [ ] 1: (not used)
 - [ ] 0: Code does not compile and/or tests do not run.
 
 ### Automated Style & Best Practice Analysis
